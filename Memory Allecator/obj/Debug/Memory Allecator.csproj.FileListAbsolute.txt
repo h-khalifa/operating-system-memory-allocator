@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2015\Projects\Memory Allecator\Memory Allecator\bin\Debug\Memory Allecator.exe.config
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Memory Allecator\Memory Allecator\obj\Debug\Memory Allecator.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Memory Allecator\Memory Allecator\obj\Debug\Memory_Allecator.form1.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Memory Allecator\Memory Allecator\obj\Debug\Memory_Allecator.Properties.Resources.resources
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Memory Allecator\Memory Allecator\obj\Debug\Memory Allecator.csproj.GenerateResource.Cache
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Memory Allecator\Memory Allecator\bin\Debug\Memory Allecator.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Memory Allecator\Memory Allecator\bin\Debug\Memory Allecator.pdb
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Memory Allecator\Memory Allecator\obj\Debug\Memory Allecator.exe
+C:\Users\dell\Documents\Visual Studio 2015\Projects\Memory Allecator\Memory Allecator\obj\Debug\Memory Allecator.pdb
